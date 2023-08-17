@@ -1,3 +1,3 @@
 # My tf2 binds
 
-write something eventually
+this the config i use to play tf2.
