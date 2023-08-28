@@ -1,6 +1,7 @@
 //select viewmodel hiding
 //this was my attempt to make a script that could hide certain slots' viewmodels, even with the scroll wheel.
 //im not currently using this because of problems im not sure can be fixed
+//DO NOT USE THIS! there are way better ways to do this, im just keeping this here because i put alot of effort into making this
 //Wearing a weapon that can't be held (manntreads, cozy camper, etc) or runnning out of ammo will break things
 //p.s this specific script will only work for engineer. `m4`, `m5` and associated aliases have to be removed for other classes
 bind mwheelup mCycleUp
