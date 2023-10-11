@@ -1,3 +1,5 @@
-# My tf2 binds
+# My Tf2 Bindings
 
-this the config i use to play tf2.
+hi
+
+I only share this project so i can work on it from mulitple location. I don't intend anyone but me to use it or contribute to it. But if you want to, feel free.
